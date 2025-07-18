@@ -133,14 +133,14 @@ h6 {
 	position: relative;
 }
 .banner {
-	background: #e6f2ff;
+	background-color: #87CEEB;
 	color: #ffffff;
 	text-align: center;
 	width: 100%;
 }
 .banner-overlay {
-	background:linear-gradient(to bottom, rgba(30, 58, 138, 0.9) 0%, #FAF3E0 100%);
-	padding:220px 0px 170px;
+	background-color: #87CEEB;
+	padding: 220px 0px 170px;
 }
 .banner h1 {
 	color:#ffffff;
