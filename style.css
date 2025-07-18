@@ -139,7 +139,7 @@ h6 {
 	width: 100%;
 }
 .banner-overlay {
-	background-color: #87CEEB;
+	background-color: #f0f8ff;
 	padding: 220px 0px 170px;
 }
 .banner h1 {
@@ -603,16 +603,23 @@ h6 {
   color: #ffffff !important;
 }
 body, html {
-	margin: 0;
-	padding: 0;
-}
-
-.navbar {
-	margin-bottom: 0;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f8ff;
 }
 
 .banner {
-	margin-top: 0;
-	padding-top: 0;
+  background-color: #E0F7FA !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.navbar {
+  margin-bottom: 0 !important;
+}
+
+.banner-overlay {
+  background-color: #E0F7FA !important; /* Fondo sin degradado */
+  padding: 220px 0px 170px;
 }
 
