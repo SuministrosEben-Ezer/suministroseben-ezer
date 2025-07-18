@@ -634,6 +634,11 @@ nav.navbar a {
 nav.navbar a:hover {
   color: #005580 !important;
 }
+#nosotros {
+  background: linear-gradient(to bottom, rgba(30, 58, 138, 0.9), #FAF3E0);
+  color: white; /* Color del texto */
+  padding: 80px 20px;
+}
 
 
 
