@@ -622,4 +622,20 @@ body, html {
   background-color: #E0F7FA !important; /* Fondo sin degradado */
   padding: 220px 0px 170px;
 }
+body {
+  background-color: #E0F7FA !important;
+}
+
+#about {
+  background-color: #E0F7FA !important;
+}
+
+.banner-overlay {
+  background-color: #E0F7FA !important;
+  background-image: none !important;
+}
+
+.navbar {
+  background-color: #E0F7FA !important;
+}
 
