@@ -133,14 +133,14 @@ h6 {
 	position: relative;
 }
 .banner {
-	background-color: #d0ebff;
-	color: #ffffff;
+	background:url(images/bg1.jpg) no-repeat 0% 0% / 100% 100%;
+	color:#ffffff;
 	text-align: center;
 	width: 100%;
 }
 .banner-overlay {
-	background-color: #d0ebff;
-	padding: 220px 0px 170px;
+	background:linear-gradient(to bottom, rgba(30, 58, 138, 0.9) 0%, #FAF3E0 100%);
+	padding:220px 0px 170px;
 }
 .banner h1 {
 	color:#ffffff;
@@ -601,41 +601,4 @@ h6 {
 .whatsapp-btn:hover {
   background-color: #1DA851;
   color: #ffffff !important;
-}
-body, html {
-  margin: 0;
-  padding: 0;
-  background-color: #f0f8ff;
-}
-
-.banner {
-  background-color: #d0ebff !important;
-  padding: 0 !important;
-  margin: 0 !important;
-}
-
-.navbar {
-  margin-bottom: 0 !important;
-}
-
-.banner-overlay {
-  background-color: #d0ebff !important;
-  padding: 220px 0px 170px;
-}
-nav.navbar {
-  background: #3b5998;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-nav.navbar a {
-  color: #003366 !important;
-}
-
-nav.navbar a:hover {
-  color: #005580 !important;
-}
-#nosotros {
-  background-color: #ffffff;
-  padding-top: 100px;
-  padding-bottom: 100px;
 }
