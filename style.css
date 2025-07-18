@@ -634,3 +634,8 @@ nav.navbar a {
 nav.navbar a:hover {
   color: #005580 !important;
 }
+#nosotros {
+  background-color: #ffffff; /* Blanco puro */
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
