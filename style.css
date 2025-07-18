@@ -133,13 +133,13 @@ h6 {
 	position: relative;
 }
 .banner {
-	background-color: #87CEEB;
+	background-color: #d0ebff;
 	color: #ffffff;
 	text-align: center;
 	width: 100%;
 }
 .banner-overlay {
-	background-color: #f0f8ff;
+	background-color: #d0ebff;
 	padding: 220px 0px 170px;
 }
 .banner h1 {
@@ -619,7 +619,7 @@ body, html {
 }
 
 .banner-overlay {
-  background-color: #E0F7FA !important; /* Fondo sin degradado */
+  background-color: #E0F7FA !important;
   padding: 220px 0px 170px;
 }
 
