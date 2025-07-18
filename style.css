@@ -640,26 +640,21 @@ nav.navbar a:hover {
   padding-bottom: 100px;
 }
 .quienes-somos-section {
-  background: linear-gradient(to bottom, #3b5998, #ffffff);
-  padding: 100px 20px;
-  color: white;
+  position: relative;
+  z-index: 1;
+  background: linear-gradient(to bottom, #3b5998, #ffffff) !important;
+  padding: 100px 20px !important;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.quienes-somos-section .container {
+  background: transparent !important;
 }
 
 .quienes-somos-section h1,
-.quienes-somos-section p {
-  color: white;
-}
-
+.quienes-somos-section p,
 .quienes-somos-section .whatsapp-btn {
-  background-color: #25D366;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 5px;
-  display: inline-block;
-  margin-top: 20px;
-  text-decoration: none;
+  color: white !important;
 }
 
-.quienes-somos-section .whatsapp-btn:hover {
-  background-color: #1ebe57;
-}
