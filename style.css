@@ -639,22 +639,3 @@ nav.navbar a:hover {
   padding-top: 100px;
   padding-bottom: 100px;
 }
-.quienes-somos-section {
-  position: relative;
-  z-index: 1;
-  background: linear-gradient(to bottom, #3b5998, #ffffff) !important;
-  padding: 100px 20px !important;
-  margin-top: 40px;
-  text-align: center;
-}
-
-.quienes-somos-section .container {
-  background: transparent !important;
-}
-
-.quienes-somos-section h1,
-.quienes-somos-section p,
-.quienes-somos-section .whatsapp-btn {
-  color: white !important;
-}
-
