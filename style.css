@@ -623,7 +623,7 @@ body, html {
   padding: 220px 0px 170px;
 }
 nav.navbar {
-  background: linear-gradient(to right, #B3E5FC, #E0F7FA); /* Degradado azul claro */
+  background: #3b5998;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
@@ -635,7 +635,31 @@ nav.navbar a:hover {
   color: #005580 !important;
 }
 #nosotros {
-  background-color: #ffffff; /* Blanco puro */
+  background-color: #ffffff;
   padding-top: 100px;
   padding-bottom: 100px;
+}
+.quienes-somos-section {
+  background: linear-gradient(to bottom, #3b5998, #ffffff);
+  padding: 100px 20px;
+  color: white;
+}
+
+.quienes-somos-section h1,
+.quienes-somos-section p {
+  color: white;
+}
+
+.quienes-somos-section .whatsapp-btn {
+  background-color: #25D366;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.quienes-somos-section .whatsapp-btn:hover {
+  background-color: #1ebe57;
 }
