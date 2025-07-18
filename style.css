@@ -602,4 +602,17 @@ h6 {
   background-color: #1DA851;
   color: #ffffff !important;
 }
+body, html {
+	margin: 0;
+	padding: 0;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.banner {
+	margin-top: 0;
+	padding-top: 0;
+}
 
