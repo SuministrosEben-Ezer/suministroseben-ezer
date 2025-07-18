@@ -623,7 +623,7 @@ body, html {
   padding: 220px 0px 170px;
 }
 nav.navbar {
-  background-color: #d0ebff !important;
+  background: linear-gradient(to right, #B3E5FC, #E0F7FA); /* Degradado azul claro */
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
@@ -634,5 +634,6 @@ nav.navbar a {
 nav.navbar a:hover {
   color: #005580 !important;
 }
+
 
 
