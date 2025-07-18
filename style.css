@@ -622,5 +622,17 @@ body, html {
   background-color: #d0ebff !important;
   padding: 220px 0px 170px;
 }
+nav.navbar {
+  background-color: #d0ebff !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+nav.navbar a {
+  color: #003366 !important;
+}
+
+nav.navbar a:hover {
+  color: #005580 !important;
+}
 
 
